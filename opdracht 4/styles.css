@@ -1,0 +1,23 @@
+body {
+  color: #436028;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  background-color: tan;
+}
+h1 {
+  font-weight: bold;
+}
+
+.colorfont {
+  color: orange;
+}
+.black-border {
+  border: 5px solid black;
+}
+
+#green-background {
+  background-color: green;
+}
+#bigfont {
+  font-size: 40px;
+}
